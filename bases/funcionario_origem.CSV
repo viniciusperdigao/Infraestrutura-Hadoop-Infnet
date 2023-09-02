@@ -1,0 +1,12 @@
+ID_Funcionario;ID_Cargo;ID_Departamento;Nome_Funcionario;DATA_ADMISSAO;DATA_DEMISSAO
+1;12;7;Fabriola Pereira;10/01/2000;20/09/2012
+2;2;2;Carlos Meireles;11/04/1995;01/01/9999
+3;1;1;Adalberto Cristovão;11/07/1990;01/01/9999
+4;1;1;Camilla Prado;10/10/1985;01/01/9999
+5;2;2;Marcio Tales de Souza;09/01/1981;01/01/9999
+6;6;5;Fernando da Silva;10/04/1976;01/01/9999
+7;3;3;Barbara Maria;11/07/1971;01/01/9999
+8;12;7;Alice Meire ;10/10/1966;01/01/9999
+9;5;6;João Da Silva;09/01/1962;01/01/9999
+10;4;4;Marcos Prado;10/04/1957;01/01/9999
+11;12;7;Claudia Cristina;10/10/2012;01/01/9999

@@ -1,0 +1,13 @@
+ID_Cargo;Nome_Cargo;Salario
+1;Diretor;R$ 20.000,00
+2;Gerente;R$ 8.000,00
+3;Coordenador de Finanças;R$ 7.000,00
+4;Coordenador Contabil;R$ 7.000,00
+5;Coordenador de RH;R$ 6.000,00
+6;Coordenador de TI;R$ 7.000,00
+7;Analista de Sistemas;R$ 3.000,00
+8;Analista de Suporte;R$ 2.500,00
+9;Auxiliar Financeiro;R$ 1.700,00
+10;Auxiliar Contábil;R$ 1.700,00
+11;Auxiliar de RH;R$ 1.300,00
+12;Recepcionista;R$ 1.000,00
